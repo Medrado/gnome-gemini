@@ -1,24 +1,24 @@
-# Gemini Ai Chat for Gnome (4+)
+# Gemini Ai Chat para Gnome (4+)
 
-This Add-on is using gemini 1.0 pro model for chatting.
+Esta extensão usa o modelo Gemini 1.0 para bater papo.
 
-## Using Gemini API Key
+## Usando a chave de API Gemini
 
-1. Go to [Google Ai](https://ai.google.dev/) and click the `Get API key in Google AI studio`
-2. On [API key page](https://aistudio.google.com/app/apikey) you can create new api key for gemini
-   1. **Note:** if you are planing to use vertex api choose `create new project`
-3. Copy the api key to addon settings
-4. All done!
+1. Vá para [Google Ai](https://ai.google.dev/) e clique em Obter chave de API no Google AI Studio`
+2. Na [página da chave API](https://aistudio.google.com/app/apikey) você pode criar uma nova chave de API para gemini
+   1. **Nota:** se você está planejando usar a API vertex, escolha `criar novo projeto`
+3. Copie a chave da API para as configurações da extensão
+4. E pronto!
 
-## Using Vertex API (ADVANCE)
+## Using API da Vertex API
 
-**Note that:** Vertex api is a SaaS (paid service) from Google so you will pay your own queries and  you should know theese:
+**Observe que:** API Vertex é um SaaS (serviço pago) do Google, então você pagará suas próprias consultas e deverá saber o seguinte:
 
-* Basic knowledge about Google Developer Console
-* Basic knowledge about installing packages via terminal
-* Basic knowledge about Google billing
+* Conhecimento básico sobre o Google Developer Console
+* Conhecimento básico sobre instalação de pacotes via terminal
+* Conhecimento básico sobre faturamento do Google
 
-### Installing
+### Instalando
 
 1. create billing information
 2. knowledge to gcloud-cli. ref: [Install the gcloud CLI](https://cloud.google.com/sdk/docs/install)
